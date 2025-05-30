@@ -1,4 +1,4 @@
-  Date &  Vector2D C++ Classes
+ Date &  Vector2D C++ Classes
 
 Цей проєкт реалізує два класи мовою C++:
 
